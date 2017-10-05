@@ -5,6 +5,9 @@
 * [facebook.com/PoznanADG](http://facebook.com/PoznanADG)
 * [meetup.com/Poznan-Android-Developer-Group/ ](http://meetup.com/Poznan-Android-Developer-Group/)
 
+### Idea IntelliJ
+* Link do losowania: [https://goo.gl/d3CJqj](https://goo.gl/d3CJqj)
+
 ### Mobilization 2017
 * [2017.mobilization.pl](http://2017.mobilization.pl)
 * 21 października, Łódź
