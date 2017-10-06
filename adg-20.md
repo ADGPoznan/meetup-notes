@@ -25,6 +25,6 @@
 
 
 ## Prezentacje - slajdy
-1. TBD
-2. TBD
-3. TBD
+1. [How to handle encryption keys in Android](https://goo.gl/6urYKm)
+2. [Make your Kotlin code less Javish](https://goo.gl/RGRyn6)
+3. [Android Clean Architecture](https://goo.gl/oCKNfy)
