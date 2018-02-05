@@ -13,7 +13,7 @@
 1. Nietypowe urządzenia z Androidem na trzech przykładach - [slajdy](https://goo.gl/z8pfih)
 2. AR przy pomocy Vuforia Unity - [slajdy](https://goo.gl/dLFzND)
 3. Blockchain na Androidzie - [slajdy](https://goo.gl/d5emzj)
-4. Inteligentne rozpoznawanie obrazów z wykorzystaniem TensorFlow - [slajdy](https://goo.gl/BwjssG)
+4. Inteligentne rozpoznawanie obrazów z wykorzystaniem TensorFlow - [slajdy](https://goo.gl/BwjssG), [wideo](https://www.youtube.com/watch?v=t6qYSRgRWj0&feature=youtu.be)
 
 ## Zdjęcia
 https://www.facebook.com/pg/euromobilecenter/photos/?tab=album&album_id=1532822933501894
