@@ -8,6 +8,9 @@
 ### Licencja Intellij
 * Link do losowania - [https://goo.gl/A8nkEJ](https://goo.gl/A8nkEJ)
 
+### Mobile Central Europe
+* Kod zniżkowy -15%: **poznan_adg_mce_15** na [MCE](https://2018.mceconf.com/).
+
 ## Prezentacje - slajdy
 1) "COSU, czyli jak zamienić Androida w kiosk" - [slajdy](https://goo.gl/DeUGb1), [Kiosk (Github)](https://github.com/mrugacz95/Kiosk)
 
