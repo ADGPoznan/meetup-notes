@@ -9,4 +9,6 @@
 * Link do losowania - [https://goo.gl/forms/jqZ0t2l5FYFbmiY33](https://goo.gl/forms/jqZ0t2l5FYFbmiY33)
 
 ## Prezentacje - slajdy
-* Prezentacje zostaną umieszczone po spotkaniu
+* ["Jak wzorowo zaimplementować analitykę w aplikacjach mobilnych"](https://drive.google.com/file/d/1Iu1yd4rfrPywTD748sHAkcbffSfC5tAd/view?usp=sharing) - **Michał Łuszczuk**
+* ["Jak zmniejszyć duplikację kodu pomiędzy aplikacjami - case study"](https://drive.google.com/file/d/1R_CjKqITNGFOgJ37wICxYhqapW7Guieu/view?usp=sharing) - **Paulina Sadowska**
+* TBD
