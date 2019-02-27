@@ -11,4 +11,4 @@
 ## Prezentacje - slajdy
 * ["Jak wzorowo zaimplementować analitykę w aplikacjach mobilnych"](https://drive.google.com/file/d/1Iu1yd4rfrPywTD748sHAkcbffSfC5tAd/view?usp=sharing) - **Michał Łuszczuk**
 * ["Jak zmniejszyć duplikację kodu pomiędzy aplikacjami - case study"](https://drive.google.com/file/d/1R_CjKqITNGFOgJ37wICxYhqapW7Guieu/view?usp=sharing) - **Paulina Sadowska**
-* TBD
+* ["Painless Jetpack Navigation"](https://drive.google.com/file/d/1HeTgm4L4D2zitLZQZ9a9fBF8iV8zuN2z/view) - **Mateusz Bartos**
