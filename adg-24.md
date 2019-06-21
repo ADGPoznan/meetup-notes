@@ -12,5 +12,11 @@
 * Mobilization 2019 odbędzie się 26.10.2019 w Łodzi
 * Call for papers - [http://bit.ly/mobilization9-c4p](http://bit.ly/mobilization9-c4p)
 
-## Prezentacje - slajdy
-* Coming soon
+## Ankieta po spotkaniu
+Jeśli uczestniczyłeś w 24 spotkaniu Poznań ADG poświęć chwilę na wypełnienie [ankiety](https://docs.google.com/forms/d/e/1FAIpQLScHd5vMYx3wSsevraXxucNkRMuEHGLcpivJQPvwjX_hxn-nDA/viewform)
+
+## Prezentacje - nagrania wideo
+* [Komercyjne wykorzystywanie oprogramowania na licencji open source - Monika Chajec](https://youtu.be/vDr-AmnwkWo)
+* [Hybrid SDKs using Kotlin/Multiplatform - Leonid Popescu](https://youtu.be/EO1MOAlq2JE)
+* [Beyond Unit Tests - Building a Real Robot Army for Automated Testing - Simon Eumes](https://youtu.be/Yg7183NwZ7c)
+
